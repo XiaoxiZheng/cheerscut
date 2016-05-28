@@ -1291,16 +1291,16 @@ body.vintage .testimonials .testimonials-carousel .owl-controls .owl-next {
     transition: all 0.4s;       
 }  
 *:focus::-webkit-input-placeholder {
-    color: #000000  !important;
+    color: #444444  !important;
 }
 *:focus:-moz-placeholder {
-    color: #000000  !important;
+    color: #444444  !important;
 }
 *:focus::-moz-placeholder {
-    color: #000000  !important;
+    color: #444444  !important;
 }
 *:focus:-ms-input-placeholder {
-    color: #000000  !important;
+    color: #444444  !important;
 }  
 
 .form-style #form-captcha {
